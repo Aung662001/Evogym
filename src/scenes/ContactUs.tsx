@@ -2,7 +2,7 @@ import { SelectedPage } from "@/App"
 import { motion } from "framer-motion"
 import { setSelectedPage } from "./navbar/Link"
 import {useForm} from "react-hook-form"
-import contactUsGraphic from "@/assets/contactUsPageGraphic.png"
+import contactUsGraphic from "@/assets/ContactUsPageGraphic.png"
 
 
 
